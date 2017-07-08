@@ -12,7 +12,7 @@ This application was submitted by Muhammad Ansharullah (ansorkazama@gmail.com) a
 
 with this identifier (edit in your key between the quotes):
 
-     TheMovieDbApiToken="12341234123412341234"
+     TheMovieDbApiToken="123456789876543210"
 ### License and Disclaimers
 
 Portions of this page are modifications based on work created and
