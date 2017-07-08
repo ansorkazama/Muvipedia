@@ -1,5 +1,5 @@
 # Muvipedia
-Android movie info browsing app, presents content from TheMovieDb.org.
+Popular Movies App for android, presents content from TheMovieDb.org.
 
 ## History
 This application was submitted by Muhammad Ansharullah (ansorkazama@gmail.com) as the project:<b>Popular Movies-Phase 1</b> to compete the requirements of the Associate Android Developer Fast Track Nanodegree Program course.
